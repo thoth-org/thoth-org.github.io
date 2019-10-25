@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "scripts": {},
+    "devDependencies": {
+        "gh-pages": "^2.1.1",
+        "nacara": "^0.2.1",
+        "react": "^16.9.0",
+        "react-dom": "^16.9.0"
+    },
+    "dependencies": {}
+}
