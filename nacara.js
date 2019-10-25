@@ -10,7 +10,7 @@ const homepageLayout = (model, pageContext) => {
         // Use the markdown converter exposed by your F# layout
         const html = { __html: markdown(pageContext.Content, model.Config.Plugins.Markdown) };
 
-        const content = <div class="content" dangerouslySetInnerHTML={html} />;
+        const content = <div className="content" dangerouslySetInnerHTML={html} />;
 
         // Re-use existing base page (writting in F#)
         const page = prelude.basePage(model, pageContext.Attributes.Title, content);
