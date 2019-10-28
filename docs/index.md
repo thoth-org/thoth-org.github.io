@@ -21,7 +21,7 @@ Thoth is a set of several libraries for working with Fable and .Net applications
 
 * [Thoth.Json](https://thoth-org.github.io/Thoth.Json) is an elm-inspired encoder and decoder for JSON which provide a safe way to works with JSON
     * [Thoth.Json](https://thoth-org.github.io/Thoth.Json) is compatible with Fable runtime
-    * [Thoth.Json.Net](https://thoth-org.github.io/Thoth.Json/#.Net-and-NetCore-support) is compatible .NET Frameworkd and .NetCore runtimes
+    * [Thoth.Json.Net](https://thoth-org.github.io/Thoth.Json/#.Net-and-NetCore-support) is compatible .NET Framework and .NetCore runtimes
     * [Thoth.Json.Giraffe](https://thoth-org.github.io/Thoth.Json/#Giraffe) provide an API for making it easier to use from [Giraffe](https://github.com/giraffe-fsharp/Giraffe) or [Saturn](https://saturnframework.org/) for example
 
 # Related to Elmish
